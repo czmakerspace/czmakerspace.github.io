@@ -1,0 +1,17 @@
+# Site settings
+title: 常州创客空间
+email: czmakerspace@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  常州第一个创客空间
+  触及未来，智造梦想 
+  Touch the future， Make it happen 
+  创客“Maker”，无论创意大小，只要你努力把创意变为现实，就是创客。常州创客空间是一个服务于创客群体，分享创作乐趣、培育创业氛围、促进跨界合作，继而推动产业链整合共赢，增强科技产业综合实力的非盈利性公益平台。未来将为大家提供3D打印，小型机床，电子类工具，电动工具等。欢迎常州各路创客英豪、DIY爱好者、工程师、学生、设计师、手艺人、电子爱好者、艺术家、机器人爱好者等等参加我们的活动！创客空间期待你的加入 
+  创客空间暂定每周日开放（13:00 - 17:00），地址：钟楼区清潭路93号 国光1937科技文化创意园内，无需报名，感兴趣就来看看吧！ 
+  我们的QQ群：299747223 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "czmaker.github.io/czmaker" # the base hostname & protocol for your site
+twitter_username: czmaker
+github_username:  czmaker
+
+# Build settings
+markdown: kramdown
